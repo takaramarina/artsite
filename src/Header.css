@@ -1,26 +1,33 @@
 .header {
-    background-color: #282c34;
-    padding: 20px;
-    color: white;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    color: #282c34;
   }
   
-  .header nav ul {
-    list-style: none;
-    padding: 0;
+  .logo h1 {
+    margin: 0;
   }
   
-  .header nav ul li {
-    display: inline;
-    margin: 0 10px;
+  nav ul {
+    list-style: none;            /* Remove bullet points */
+    padding: 0;                  /* Remove padding */
+    margin: 0;                   /* Remove margin */
   }
   
-  .header nav ul li a {
-    color: white;
-    text-decoration: none;
+  nav ul li {
+    display: inline;             /* Display list items inline */
+    margin-left: 20px;           /* Add spacing between menu items */
   }
   
-  .header nav ul li a:hover {
-    text-decoration: underline;
+  nav ul li a {
+    color: #282c34;                /* Text color */
+    text-decoration: none;       /* Remove underline */
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;  /* Add underline on hover */
   }
   

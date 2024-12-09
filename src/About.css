@@ -1,0 +1,22 @@
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 120px;
+}
+
+h2 {
+    font-size: 3em;  /* Increase font size */
+    color: #333;
+    text-align: left;
+    margin: 0;  /* Remove margin for alignment */
+    flex: 1;  /* Make the title take up available space */
+}
+
+p {
+    font-size: 1.2em;
+    color: #333;
+    text-align: left;
+    margin: 0;  /* Remove margin for alignment */
+    flex: 1;
+}

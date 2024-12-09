@@ -1,0 +1,22 @@
+.gallery {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 120px;
+}
+
+h2 {
+    font-size: 3em;
+    color: #333;
+    text-align: left;
+    margin: 0;
+    flex: 1;
+}
+
+p {
+    font-size: 1em;
+    color: #333;
+    text-align: left;
+    margin: 0;
+    flex: 2;
+}
