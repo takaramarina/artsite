@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/artsite/static/css/main.f855e6bc.css",
+    "main.js": "/artsite/static/js/main.c9049c7d.js",
+    "static/js/488.ac1e29df.chunk.js": "/artsite/static/js/488.ac1e29df.chunk.js",
+    "static/media/logo.svg": "/artsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/artsite/index.html",
+    "main.f855e6bc.css.map": "/artsite/static/css/main.f855e6bc.css.map",
+    "main.c9049c7d.js.map": "/artsite/static/js/main.c9049c7d.js.map",
+    "488.ac1e29df.chunk.js.map": "/artsite/static/js/488.ac1e29df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c9049c7d.js"
+  ]
+}
