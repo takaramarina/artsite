@@ -2,7 +2,7 @@
   "name": "artsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://takaramarina.github.io/nanji",
+  "homepage": "https://takaramarina.github.io/artsite",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
