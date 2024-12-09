@@ -9,7 +9,7 @@ import './styles.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/artsite">
       <div className="App">
         <Header />
         <Routes>
