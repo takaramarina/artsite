@@ -5,7 +5,7 @@ function About() {
   return (
     <div className="fade-in">
     <div className="about">
-      <h2>About Reiji Shimane</h2>
+      <h2>About</h2>
       <p>This is not really about the artist. <br/><br/>
 
         This is not about who made what.<br/><br/>

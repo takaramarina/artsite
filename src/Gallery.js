@@ -5,10 +5,10 @@ function Gallery() {
   return (
     <div className="fade-in">
     <div className="gallery">
-      <h2>Gallery</h2>
+      {/* <h2>Gallery</h2>
       <p>
 
-        I would define all artworks as the physical language.</p>
+        I would define all artworks as the physical language.</p> */}
     </div>
     </div>
   );

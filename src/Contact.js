@@ -5,9 +5,9 @@ function Contact() {
   return (
     <div className="fade-in">
     <div className="contact">
-      <h2>Contact Reiji Shimane</h2>
+      <h2>Contact</h2>
       <p>
-        email: fannymoneyonline@gmail.com<br/><br/>
+        Please direct all inquiries to fannymoneyonline@gmail.com.<br/><br/>
       </p>
     </div>
     </div>
